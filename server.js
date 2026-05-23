@@ -60,13 +60,3 @@ app.delete('/usuarios/:id', async (req, res) =>{
 })
 
 app.listen(3000)
-
-/*
-user: silvestre
-password: GqY6ytuaXQH4IOyS
-*/ 
-
-// silvestre
-// yML0VNBiA33L6Cmc
-// luccaveiga23_db_user
-
